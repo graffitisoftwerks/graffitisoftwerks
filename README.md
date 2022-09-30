@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @graffitisoftwerks
+- 👋 Hi, I’m Nash Ali @graffitisoftwerks
 - 👀 I’m interested in ... games and applications development
 - 📫 How to reach me ... please see website.
 
