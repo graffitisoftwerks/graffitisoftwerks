@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @graffitisoftwerks
 - 👀 I’m interested in ... games and applications development
-- 📫 How to reach me ...
+- 📫 How to reach me ... please see website.
 
 <!---
 graffitisoftwerks/graffitisoftwerks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
